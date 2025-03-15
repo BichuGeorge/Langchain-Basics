@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+python-dotenv
+langchain-groq
+pypdf
+wikipedia
+bs4
+unstructured
+langchain-chroma
+sentence_transformers
+faiss-cpu
