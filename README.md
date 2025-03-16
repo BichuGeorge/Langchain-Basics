@@ -48,6 +48,14 @@ Run the langchain_output_parser.ipynb script to parse responses from an LLM.
 
 Run the langchain_groq_prompt.ipynb script to explore various prompt engineering techniques.
 
+6. Runnables
+
+Run the langchain_runnable_basics.ipynb script to explore various prompt engineering techniques.
+
+7. Memory
+
+Run the langchain_groq_memory.ipynb script to explore various prompt engineering techniques.
+
 Contributing
 
 Feel free to contribute by opening issues or submitting pull requests!
